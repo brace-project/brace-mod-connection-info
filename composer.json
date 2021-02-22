@@ -1,5 +1,5 @@
 {
-    "name": "brace/connection-info",
+    "name": "brace/mod-connection-info",
     "type": "library",
     "description": "Client connection information",
     "keywords": ["Phore", "Dependency Injection", "Di"],
