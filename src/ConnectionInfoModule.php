@@ -4,9 +4,10 @@
 namespace Brace\Connection;
 
 
+use Brace\Connection\Helper\IPSet;
 use Brace\Core\BraceApp;
 use Brace\Core\BraceModule;
-use Brace\Core\Helper\IPSet;
+
 use Phore\Di\Container\Producer\DiService;
 use Psr\Http\Message\RequestInterface;
 use Psr\Http\Message\ServerRequestInterface;

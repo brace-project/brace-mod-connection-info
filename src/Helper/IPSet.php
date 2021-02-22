@@ -20,7 +20,7 @@
  * @file
  * @author Brandon Black <blblack@gmail.com>
  */
-namespace Brace\Core\Helper;
+namespace Brace\Connection\Helper;
 /**
  * Matches IP addresses against a set of CIDR specifications
  *

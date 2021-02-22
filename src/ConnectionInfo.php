@@ -4,7 +4,8 @@
 namespace Brace\Connection;
 
 
-use Brace\Core\Helper\IPSet;
+
+use Brace\Connection\Helper\IPSet;
 
 class ConnectionInfo
 {
