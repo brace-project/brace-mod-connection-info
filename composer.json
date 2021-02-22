@@ -1,0 +1,38 @@
+{
+    "name": "brace/connection-info",
+    "type": "library",
+    "description": "Client connection information",
+    "keywords": ["Phore", "Dependency Injection", "Di"],
+    "homepage": "https://infracamp.org",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matthias Leuffen",
+            "email": "matthes@leuffen.de"
+        }
+    ],
+    "require": {
+        "php": ">=8.0",
+        "brace/core": "*"
+    },
+
+    "require-dev": {
+        "phore/tester": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Brace\\Connection\\": "src"
+        },
+        "files": [
+        ]
+    },
+    "autoload-dev": {
+        "psr-4": {
+        }
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "branch-alias": {
+        }
+    }
+}
